@@ -7,5 +7,4 @@ Os trabalhos foram feitos em dupla com Vinícius Reis.
 
 ## Falta adicionar:
 - Enunciado do ex. 5 e 6.
-- Ex2: Correção do relatório.
-- Ex7: src, relatório, correção do relatório.
+- Ex2 e Ex7: Correção do relatório.
