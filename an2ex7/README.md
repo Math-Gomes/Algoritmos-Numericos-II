@@ -15,3 +15,5 @@ No arquivo fornecido:
 Modificações feitas:
 
     u(i-1) - 2*u(i) + u(i+1) + (h^2)*(lambda * exp(u(i)) + pi^2 * sin(pi*x(i)) - lambda*exp(sin(pi*x(i))));
+
+Não foi entregue por parte da professora o arquivo com a correção deste trabalho, mas conseguimos nota 10.
